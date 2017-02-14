@@ -1,0 +1,59 @@
+//
+//  PrefixHeader.pch
+//  WY_NativeAddEvent
+//
+//  Created by WYRoy on 17/2/14.
+//  Copyright © 2017年 ihefe－0006. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+Extension.h"
+
+/******************************[ UIColor 颜色 ]*****************************************/
+//定义颜色
+#define IHColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+//定义颜色, 带 alpha通道 (透明度)
+#define IHColorA(r, g, b ,a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:a]
+
+//页面布局的背景色
+#define IHBackGroundColor IHColor(245, 245, 249)
+
+//#if (DEVELOPMENT == 2)//杨浦妇幼
+#define IHBaseColor IHColor(255, 122, 154)//主色调粉色 [用于导航栏 侧边栏等]
+//#else
+//#define IHBaseColor IHColor(0, 3, 51)//主色调黑色
+//#endif
+
+#define IHFAccompanyColorBlue IHColor(122, 169, 255)//配色蓝
+#define IHFAccompanyColorYellow IHColor(255, 233, 122)//配色黄
+#define IHWhiteColor [UIColor whiteColor] //白色
+#define IHBlackColor IHColor(51, 51, 51) //黑色  凡出现黑色的地方 均用这种黑色
+
+//主题颜色(界面上 头部颜色)
+
+
+//页面头部的颜色
+
+//线框/所有边框(统一颜色)
+
+//灰色
+#define IHGrayTextColor [UIColor grayColor]
+
+/***********************************************************************/
+
+
+/******************************[ DateFormate 日期格式 ]******************************/
+#define IHDateFormate_yMd_ahm @"yyyy年MM月dd日 ahh:mm"
+#define IHDateFormate_yMd @"yyyy年MM月dd日"
+
+
+/******************************[ DateFormate 日期格式 ]******************************/
+
+
+
+#define UITableViewCellLeftRightMargin 15 //cell的左右边距`
+
+#endif /* PrefixHeader_pch */
