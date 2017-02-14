@@ -22,12 +22,6 @@
 		D7677E001E52BB6500D153D6 /* HealthItems.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DCE1E52BB6400D153D6 /* HealthItems.m */; };
 		D7677E011E52BB6500D153D6 /* ItemEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DD01E52BB6400D153D6 /* ItemEvent.m */; };
 		D7677E021E52BB6500D153D6 /* SelectCellModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DD21E52BB6400D153D6 /* SelectCellModel.m */; };
-		D7677E031E52BB6500D153D6 /* HealthItemCenterView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DD51E52BB6400D153D6 /* HealthItemCenterView.m */; };
-		D7677E041E52BB6500D153D6 /* HealthItemHeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DD71E52BB6400D153D6 /* HealthItemHeadView.m */; };
-		D7677E051E52BB6500D153D6 /* HealthItemsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DD91E52BB6400D153D6 /* HealthItemsCell.m */; };
-		D7677E061E52BB6500D153D6 /* HealthItemsScreenView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DDB1E52BB6400D153D6 /* HealthItemsScreenView.m */; };
-		D7677E071E52BB6500D153D6 /* HealthItemsStateCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DDD1E52BB6400D153D6 /* HealthItemsStateCell.m */; };
-		D7677E081E52BB6500D153D6 /* HealthItemsTimeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DDF1E52BB6400D153D6 /* HealthItemsTimeCell.m */; };
 		D7677E091E52BB6500D153D6 /* IH_CRCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DE11E52BB6400D153D6 /* IH_CRCollectionCell.m */; };
 		D7677E0A1E52BB6500D153D6 /* IH_CustomRepeatFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DE31E52BB6400D153D6 /* IH_CustomRepeatFooterView.m */; };
 		D7677E0B1E52BB6500D153D6 /* IH_SelectTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7677DE51E52BB6400D153D6 /* IH_SelectTableViewCell.m */; };
@@ -92,18 +86,6 @@
 		D7677DD01E52BB6400D153D6 /* ItemEvent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemEvent.m; sourceTree = "<group>"; };
 		D7677DD11E52BB6400D153D6 /* SelectCellModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectCellModel.h; sourceTree = "<group>"; };
 		D7677DD21E52BB6400D153D6 /* SelectCellModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectCellModel.m; sourceTree = "<group>"; };
-		D7677DD41E52BB6400D153D6 /* HealthItemCenterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthItemCenterView.h; sourceTree = "<group>"; };
-		D7677DD51E52BB6400D153D6 /* HealthItemCenterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthItemCenterView.m; sourceTree = "<group>"; };
-		D7677DD61E52BB6400D153D6 /* HealthItemHeadView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthItemHeadView.h; sourceTree = "<group>"; };
-		D7677DD71E52BB6400D153D6 /* HealthItemHeadView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthItemHeadView.m; sourceTree = "<group>"; };
-		D7677DD81E52BB6400D153D6 /* HealthItemsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthItemsCell.h; sourceTree = "<group>"; };
-		D7677DD91E52BB6400D153D6 /* HealthItemsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthItemsCell.m; sourceTree = "<group>"; };
-		D7677DDA1E52BB6400D153D6 /* HealthItemsScreenView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthItemsScreenView.h; sourceTree = "<group>"; };
-		D7677DDB1E52BB6400D153D6 /* HealthItemsScreenView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthItemsScreenView.m; sourceTree = "<group>"; };
-		D7677DDC1E52BB6400D153D6 /* HealthItemsStateCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthItemsStateCell.h; sourceTree = "<group>"; };
-		D7677DDD1E52BB6400D153D6 /* HealthItemsStateCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthItemsStateCell.m; sourceTree = "<group>"; };
-		D7677DDE1E52BB6400D153D6 /* HealthItemsTimeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HealthItemsTimeCell.h; sourceTree = "<group>"; };
-		D7677DDF1E52BB6400D153D6 /* HealthItemsTimeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HealthItemsTimeCell.m; sourceTree = "<group>"; };
 		D7677DE01E52BB6400D153D6 /* IH_CRCollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IH_CRCollectionCell.h; sourceTree = "<group>"; };
 		D7677DE11E52BB6400D153D6 /* IH_CRCollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IH_CRCollectionCell.m; sourceTree = "<group>"; };
 		D7677DE21E52BB6400D153D6 /* IH_CustomRepeatFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IH_CustomRepeatFooterView.h; sourceTree = "<group>"; };
@@ -271,18 +253,6 @@
 		D7677DD31E52BB6400D153D6 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				D7677DD41E52BB6400D153D6 /* HealthItemCenterView.h */,
-				D7677DD51E52BB6400D153D6 /* HealthItemCenterView.m */,
-				D7677DD61E52BB6400D153D6 /* HealthItemHeadView.h */,
-				D7677DD71E52BB6400D153D6 /* HealthItemHeadView.m */,
-				D7677DD81E52BB6400D153D6 /* HealthItemsCell.h */,
-				D7677DD91E52BB6400D153D6 /* HealthItemsCell.m */,
-				D7677DDA1E52BB6400D153D6 /* HealthItemsScreenView.h */,
-				D7677DDB1E52BB6400D153D6 /* HealthItemsScreenView.m */,
-				D7677DDC1E52BB6400D153D6 /* HealthItemsStateCell.h */,
-				D7677DDD1E52BB6400D153D6 /* HealthItemsStateCell.m */,
-				D7677DDE1E52BB6400D153D6 /* HealthItemsTimeCell.h */,
-				D7677DDF1E52BB6400D153D6 /* HealthItemsTimeCell.m */,
 				D7677DE01E52BB6400D153D6 /* IH_CRCollectionCell.h */,
 				D7677DE11E52BB6400D153D6 /* IH_CRCollectionCell.m */,
 				D7677DE21E52BB6400D153D6 /* IH_CustomRepeatFooterView.h */,
@@ -472,7 +442,6 @@
 			files = (
 				D7677E0B1E52BB6500D153D6 /* IH_SelectTableViewCell.m in Sources */,
 				D7677E091E52BB6500D153D6 /* IH_CRCollectionCell.m in Sources */,
-				D7677E051E52BB6500D153D6 /* HealthItemsCell.m in Sources */,
 				D7677DFE1E52BB6500D153D6 /* IH_SelectTableViewController.m in Sources */,
 				D7677E471E52D06300D153D6 /* NSObject+MJKeyValue.m in Sources */,
 				D7677E421E52D06300D153D6 /* MJProperty.m in Sources */,
@@ -480,8 +449,6 @@
 				D7677DFD1E52BB6500D153D6 /* IH_AddItemsViewController.m in Sources */,
 				D7677E431E52D06300D153D6 /* MJPropertyKey.m in Sources */,
 				D7677DFF1E52BB6500D153D6 /* CustomRepeat.m in Sources */,
-				D7677E081E52BB6500D153D6 /* HealthItemsTimeCell.m in Sources */,
-				D7677E061E52BB6500D153D6 /* HealthItemsScreenView.m in Sources */,
 				D7677E0A1E52BB6500D153D6 /* IH_CustomRepeatFooterView.m in Sources */,
 				D7677E0D1E52BB6500D153D6 /* IH_CRCollectionMonthTypeCell.m in Sources */,
 				D7677E131E52BB6500D153D6 /* IH_TextFieldTypeCell.m in Sources */,
@@ -495,10 +462,8 @@
 				D7677E411E52D06300D153D6 /* MJFoundation.m in Sources */,
 				D7677E101E52BB6500D153D6 /* IH_CRSwitchPickerTypeCell.m in Sources */,
 				D7677DFA1E52BB6500D153D6 /* IH_AddItemsCustomRepeatViewController.m in Sources */,
-				D7677E071E52BB6500D153D6 /* HealthItemsStateCell.m in Sources */,
 				D7677E251E52CF0900D153D6 /* UpDownButton.m in Sources */,
 				D7677DA01E52B91D00D153D6 /* ViewController.m in Sources */,
-				D7677E031E52BB6500D153D6 /* HealthItemCenterView.m in Sources */,
 				D7677E141E52BB6500D153D6 /* IH_TimeTypeCell.m in Sources */,
 				D7677E441E52D06300D153D6 /* MJPropertyType.m in Sources */,
 				D7677E461E52D06300D153D6 /* NSObject+MJCoding.m in Sources */,
@@ -506,7 +471,6 @@
 				D7677E1F1E52CE3000D153D6 /* UIView+Extension.m in Sources */,
 				D7677D9D1E52B91D00D153D6 /* AppDelegate.m in Sources */,
 				D7677E451E52D06300D153D6 /* NSObject+MJClass.m in Sources */,
-				D7677E041E52BB6500D153D6 /* HealthItemHeadView.m in Sources */,
 				D7677E481E52D06300D153D6 /* NSObject+MJProperty.m in Sources */,
 				D7677D9A1E52B91D00D153D6 /* main.m in Sources */,
 				D7677DFC1E52BB6500D153D6 /* IH_AddItemsRepeatTableViewController.m in Sources */,
@@ -676,6 +640,7 @@
 				D7677DAE1E52B91D00D153D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
